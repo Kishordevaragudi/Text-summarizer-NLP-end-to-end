@@ -1,5 +1,7 @@
 # End-to-end-Text-Summarizer
 
+Text summarization is the process of condensing a longer piece of text into a shorter version while preserving its main ideas and key information. It involves extracting the most important sentences or phrases from the original text and presenting them in a concise and coherent manner. Text summarization can be done manually by humans or automatically using algorithms and natural language processing techniques. It is widely used to provide an overview of lengthy documents, news articles, research papers, and other textual content, saving time and effort for readers by quickly providing them with the essential points without having to read the entire text.
+
 
 ## Workflows
 
