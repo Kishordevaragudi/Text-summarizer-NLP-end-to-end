@@ -16,5 +16,5 @@ Text summarization is the process of condensing a longer piece of text into a sh
 
 ![image](https://github.com/Kishordevaragudi/Text-summarizer-NLP-end-to-end/blob/main/Screenshot%20(59).png)
 
-App link: https://text-summarizer-nlp-end-to-end-cshhcutzgahzcc5eqtywvl.streamlit.app/
+
 ![image](https://github.com/UdBe/Text-Summarization-NLP/assets/71140717/639a2d7b-d0bd-442d-9d52-42384534250d)
