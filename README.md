@@ -14,7 +14,7 @@ Text summarization is the process of condensing a longer piece of text into a sh
 7. update the main.py
 8. update the app.py
 
-https://github.com/Kishordevaragudi/Text-summarizer-NLP-end-to-end/blob/main/Screenshot%20(59).png
+![Alt text]([http://full/path/to/img.jpg](https://github.com/Kishordevaragudi/Text-summarizer-NLP-end-to-end/blob/main/Screenshot%20(59).png) "Optional title")
 
 App link: https://text-summarizer-nlp-end-to-end-cshhcutzgahzcc5eqtywvl.streamlit.app/
 ![image](https://github.com/UdBe/Text-Summarization-NLP/assets/71140717/639a2d7b-d0bd-442d-9d52-42384534250d)
