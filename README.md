@@ -13,3 +13,6 @@ Text summarization is the process of condensing a longer piece of text into a sh
 6. update the pipeline
 7. update the main.py
 8. update the app.py
+
+![image](https://github.com/UdBe/Text-Summarization-NLP/assets/71140717/a42c6fa0-acca-4c0c-b45f-5732f8b1c3c3)
+![image](https://github.com/UdBe/Text-Summarization-NLP/assets/71140717/639a2d7b-d0bd-442d-9d52-42384534250d)
